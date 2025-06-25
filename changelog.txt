@@ -1,0 +1,4 @@
+🎯 **LXAIL - BETA UPDATE**
+
+✨ **New Features:**
+- 🔧 Added a toggle for Debug UI
